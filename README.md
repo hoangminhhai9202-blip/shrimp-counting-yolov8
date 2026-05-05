@@ -1,7 +1,9 @@
 # Đếm tôm nhỏ bằng YOLOv8
 
-Đây là dự án thị giác máy tính sử dụng YOLOv8 để nhận diện và đếm số lượng tôm nhỏ từ hình ảnh.  
-Dự án được thực hiện trong quá trình thực tập, với mục tiêu hỗ trợ đếm tôm nhanh hơn so với phương pháp đếm thủ công.
+> **Lưu ý:** Đây là phiên bản demo/portfolio của dự án đếm tôm bằng YOLOv8.  
+> Source code, dữ liệu huấn luyện và model trong repo này chỉ dùng để minh họa quy trình xử lý ảnh, không chứa dữ liệu nội bộ hoặc tài nguyên bảo mật của công ty thực tập.
+
+Đây là dự án thị giác máy tính sử dụng YOLOv8 để nhận diện và đếm số lượng tôm nhỏ từ hình ảnh.
 
 ## Mục tiêu dự án
 
