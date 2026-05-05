@@ -4,7 +4,7 @@
 > Repo này tập trung trình bày luồng xử lý chính, giao diện và cách ứng dụng YOLOv8 vào bài toán đếm tôm nhỏ.  
 > Repo này không chứa mã nguồn nội bộ, dữ liệu riêng, thông tin khách hàng hoặc mô hình production thuộc sở hữu công ty.  
 > File `nano.pt` trong repo chỉ là model demo, không phải model chính thức/production.  
-> Độ chính xác và mức độ tối ưu có thể chưa tương đương với phiên bản triển khai thực tế.
+> Độ chính xác và mức độ tối ưu chưa tương đương với phiên bản triển khai thực tế.
 
 ## Giới thiệu dự án
 
