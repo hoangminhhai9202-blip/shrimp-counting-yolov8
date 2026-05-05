@@ -1,7 +1,8 @@
 # Đếm tôm nhỏ bằng YOLOv8
 
-> **Lưu ý:** Đây là phiên bản demo/portfolio của dự án đếm tôm bằng YOLOv8.  
-> Source code, dữ liệu huấn luyện và model trong repo này chỉ dùng để minh họa quy trình xử lý ảnh, không chứa dữ liệu nội bộ hoặc tài nguyên bảo mật của công ty thực tập.
+> **Lưu ý:** Đây là phiên bản demo/portfolio được đơn giản hóa từ ý tưởng dự án thực tế.  
+> Repo này tập trung trình bày luồng xử lý chính, giao diện và cách ứng dụng YOLOv8 vào bài toán đếm tôm nhỏ.  
+> Độ chính xác và mức độ tối ưu có thể chưa tương đương với phiên bản triển khai thực tế.
 
 Đây là dự án thị giác máy tính sử dụng YOLOv8 để nhận diện và đếm số lượng tôm nhỏ từ hình ảnh.
 
@@ -22,9 +23,13 @@
 - NumPy
 - Pillow
 
-## File cần có
+## Cấu trúc dự án
 
 ```txt
-dem_tom_nho.py
-nano.pt
-requirements.txt
+shrimp-counting-yolov8/
+├── dem_tom_nho.py
+├── nano.pt
+├── requirements.txt
+├── README.md
+├── sample_images/
+└── demo_results/
