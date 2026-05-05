@@ -1,17 +1,17 @@
-# Dem tom nho bang YOLOv8
+# Đếm tôm nhỏ bằng YOLOv8
 
-Day la du an thi giac may tinh su dung YOLOv8 de nhan dien va dem so luong tom nho tu hinh anh.  
-Du an duoc thuc hien trong qua trinh thuc tap, voi muc tieu ho tro dem tom nhanh hon so voi cach dem thu cong.
+Đây là dự án thị giác máy tính sử dụng YOLOv8 để nhận diện và đếm số lượng tôm nhỏ từ hình ảnh.  
+Dự án được thực hiện trong quá trình thực tập, với mục tiêu hỗ trợ đếm tôm nhanh hơn so với phương pháp đếm thủ công.
 
-## Muc tieu du an
+## Mục tiêu dự án
 
-- Nhan dien tom nho trong anh bang mo hinh YOLOv8 da huan luyen.
-- Dem tong so luong tom xuat hien trong anh.
-- Hien thi bounding box quanh tung con tom.
-- Hien thi thoi gian xu ly anh.
-- Tao giao dien GUI de chon anh va xem ket qua truc quan.
+- Nhận diện tôm nhỏ trong ảnh bằng mô hình YOLOv8 đã huấn luyện.
+- Đếm tổng số lượng tôm xuất hiện trong ảnh.
+- Hiển thị bounding box quanh từng con tôm.
+- Hiển thị thời gian xử lý ảnh.
+- Tạo giao diện GUI để chọn ảnh và xem kết quả trực quan.
 
-## Cong nghe su dung
+## Công nghệ sử dụng
 
 - Python
 - YOLOv8
@@ -20,7 +20,7 @@ Du an duoc thuc hien trong qua trinh thuc tap, voi muc tieu ho tro dem tom nhanh
 - NumPy
 - Pillow
 
-## File can co
+## File cần có
 
 ```txt
 dem_tom_nho.py
